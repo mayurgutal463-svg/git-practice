@@ -31,3 +31,5 @@ I am learning how to synchronize remote changes.
 - Commit changes
 - Create and merge branches
 - Synchronize with GitHub
+
+Conflict practice: Version B
