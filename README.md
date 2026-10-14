@@ -8,3 +8,7 @@ I am learning Git and GitHub from zero to advanced.
 - Repositories
 - Commits
 - Branches
+
+## My progress
+
+I have successfully created my first Git commit.
