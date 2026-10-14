@@ -33,3 +33,5 @@ I am learning how to synchronize remote changes.
 - Synchronize with GitHub
 
 Conflict practice: Version B
+
+Favorite tool: VS Code
