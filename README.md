@@ -18,3 +18,9 @@ I have successfully created my first Git commit.
 - I am learning Git and GitHub.
 - I am practicing branches.
 - My goal is to contribute to real projects.
+
+- ## GitHub Practice
+
+I have connected my local repository to GitHub.
+
+I am learning how to synchronize remote changes.
