@@ -24,3 +24,10 @@ I have successfully created my first Git commit.
 I have connected my local repository to GitHub.
 
 I am learning how to synchronize remote changes.
+
+## My Git Skills
+
+- Create repositories
+- Commit changes
+- Create and merge branches
+- Synchronize with GitHub
