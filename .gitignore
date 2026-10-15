@@ -1,0 +1,14 @@
+\# Dependency packages 
+node\_modules/
+
+\# Production build output 
+dist/ 
+build/
+
+\# Environment variables and sensitive API keys 
+.env 
+.env.local
+
+
+# Log files
+*.log
